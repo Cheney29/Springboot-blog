@@ -23,16 +23,16 @@
 
 ##     功能展示
 ###	登录页面
-![登录](https://github.com/Member29/soringboot-/blob/master/pics/%E7%99%BB%E5%BD%95.png"登录")
+![登录.png](https://i.loli.net/2020/08/05/9XMAPDBs5hz4EK6.png)
 
 
 ###	首页
-![首页](https://github.com/Member29/soringboot-/blob/master/pics/%E9%A6%96%E9%A1%B5.png"首页")
-
+![首页.png](https://i.loli.net/2020/08/05/FnJvyWb8frYtLw2.png)
 
 
 ###	博客编辑页面
-![博客编辑](https://github.com/Member29/soringboot-/blob/master/pics/%E5%8D%9A%E5%AE%A2%E7%BC%96%E8%BE%91.png"博客编辑")
+![博客编辑.png](https://i.loli.net/2020/08/05/T37dl4fEkM6sJmu.png)
+
 
 ###	个人页面
-![个人页面](https://github.com/Member29/soringboot-/blob/master/pics/%E5%85%B3%E4%BA%8E%E6%88%91.png"个人页面")
+![关于我.png](https://i.loli.net/2020/08/05/FfUrKI5vdhPc4zl.png)
